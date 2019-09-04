@@ -1,2 +1,2 @@
 # HelloWorld
-hello
+print("你好")；
